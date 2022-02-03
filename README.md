@@ -1,2 +1,2 @@
 # CV
-My CV as a javascript developer
+Link: https://serpres.github.io/CV/
