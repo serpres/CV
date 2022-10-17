@@ -160,7 +160,7 @@ body {
 }
 
 .percent--react {
-  width: 90%;
+  width: 92%;
   height: 10px;
   background-color: var(--primary);
   border-radius: 30px;
@@ -188,7 +188,7 @@ body {
 }
 
 .percent--typescript {
-  width: 80%;
+  width: 89%;
   height: 10px;
   background-color: var(--primary);
   border-radius: 30px;
